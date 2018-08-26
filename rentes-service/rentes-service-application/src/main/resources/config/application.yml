@@ -1,0 +1,7 @@
+###########################
+# Config applicative globale
+###########################
+# mode jar, port et context
+server:
+  port:                              ${PORT:9020}
+  contextPath:                       /rentes-service
