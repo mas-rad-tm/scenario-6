@@ -8,8 +8,13 @@ eureka:
     register-with-eureka:   false
 
     fetch-registry:         false
+
   instance:
     hostname: localhost
+    appName: eureka-discovery
+  server:
+    enable-self-preservation: false
+
 
 #####################################################################
 # Configuration Spring actuator
