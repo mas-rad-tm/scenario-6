@@ -1,7 +1,7 @@
 
 
 # Scénario 6
-Implémentations d’un système d’authentification/identification
+Implémentation d’un annuaire de service (Service Discovery)
 
 Ce scénario se base sur un services applicatifs: 
 * **personnes-services**: le service de gestion des personnes
